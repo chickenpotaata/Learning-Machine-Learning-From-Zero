@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "fdd58e51631f402c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fd1934e39d50ca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0802dc88558d35dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Part/3. Chapter (introducing lists)/4. changing, adding, and removing elements from list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. changing, adding, and removing elements from list"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c8d9ee7a1a9bfbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d16d2eaea0827a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47b67fbed1e46a49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "94876474e6f2d03d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cf65ec43ba9b7a36",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.35546875
+  },
+  "right": {
+    "id": "e3e9c838e77222c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5fe8e660ae0969b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cec744e805f11f8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Part/3. Chapter (introducing lists)/4. changing, adding, and removing elements from list.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f0966e09d77b67c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Part/3. Chapter (introducing lists)/4. changing, adding, and removing elements from list.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d8f030b8176cac2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "09982a5ce72fed31",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6881b5c64f70b71b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Part/3. Chapter (introducing lists)/4. changing, adding, and removing elements from list.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0802dc88558d35dc",
+  "lastOpenFiles": [
+    "1. Part/3. Chapter (introducing lists)/3. accessing items on list.md",
+    "1. Part/3. Chapter (introducing lists)/4. changing, adding, and removing elements from list.md",
+    "1. Part/3. Chapter (introducing lists)/2. list indexing starts from 0.md",
+    "1. Part/3. Chapter (introducing lists)/1. What is a list.md",
+    "1. Part/2. Chapter (variables and simple data types)/9. Comments.md",
+    "1. Part/3. Chapter (introducing lists)",
+    "1. Part/2. Chapter (variables and simple data types)/8. Str function.md",
+    "1. Part/2. Chapter (variables and simple data types)/7. Numbers.md",
+    "1. Part/2. Chapter (variables and simple data types)/6. Stripping Whitespace.md",
+    "1. Part/2. Chapter (variables and simple data types)/5. Adding Whitespace to Strings with Tabs or Newlines.md",
+    "1. Part/2. Chapter (variables and simple data types)/Untitled",
+    "1. Part/2. Chapter (variables and simple data types)/4. Combining strings.md",
+    "1. Part/2. Chapter (variables and simple data types)/3. strings.md",
+    "1. Part/2. Chapter (variables and simple data types)/2. variable naming conventions.md",
+    "1. Part/2. Chapter (variables and simple data types)/1. variables.md",
+    "1. Part/1. Chapter/5. running python programs.md",
+    "1. Part/1.md",
+    "1. Part/2. Chapter (variables and simple data types)",
+    "1. Part/1. Chapter/4. Python on Different Operating Systems.md",
+    "1. Part/1. Chapter/3. Hello world.md",
+    "1. Part/1. Chapter/2. Running Snippets of Python Code.md",
+    "1. Part/1. Chapter/1. python2 vs python3.md",
+    "1. Part/1. Chapter",
+    "0. Introduction/2. Why learn python at all.md",
+    "1. Part",
+    "0. Introduction/1. Who is this book for.md",
+    "0. Introduction"
+  ]
+}
