@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Part/3. Chapter (introducing lists)/4. changing, adding, and removing elements from list.md",
+                "file": "1. Part/5. Chapter (if statements)/7. using if statements with lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. changing, adding, and removing elements from list"
+              "title": "7. using if statements with lists"
             }
           }
         ]
@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Tiedostot"
             }
           },
           {
@@ -179,19 +179,41 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Avaa pikavaihdin": false,
+      "graph:Avaa verkkonäkymä": false,
+      "canvas:Luo uusi valkotaulu": false,
+      "daily-notes:Avaa tämän päivän muistiinpanot": false,
+      "templates:Lisää malline": false,
+      "command-palette:Avaa komentovalikko": false,
+      "bases:Luo uusi kanta": false
     }
   },
   "active": "0802dc88558d35dc",
   "lastOpenFiles": [
-    "1. Part/3. Chapter (introducing lists)/3. accessing items on list.md",
+    "1. Part/5. Chapter (if statements)/8. Using multiple lists.md",
+    "1. Part/5. Chapter (if statements)/7. using if statements with lists.md",
+    "1. Part/5. Chapter (if statements)/6. The if-elif-else Chain.md",
+    "1. Part/5. Chapter (if statements)/5. if-else statements.md",
+    "1. Part/5. Chapter (if statements)/4. Boolean Expressions.md",
+    "1. Part/5. Chapter (if statements)/3. Checking Whether a Value Is in a List.md",
+    "1. Part/5. Chapter (if statements)/2. conditional tests.md",
+    "1. Part/5. Chapter (if statements)/1. simple if statement.md",
+    "1. Part/4. Chapter (working with lists)/8. Styling your code.md",
+    "1. Part/5. Chapter (if statements)",
+    "1. Part/4. Chapter (working with lists)/7. tuples.md",
+    "1. Part/4. Chapter (working with lists)/6. copying a list.md",
+    "1. Part/4. Chapter (working with lists)/5. working with Part of a list.md",
+    "1. Part/4. Chapter (working with lists)/4. list comprehensions.md",
+    "1. Part/4. Chapter (working with lists)/3. making numerical lists.md",
+    "1. Part/4. Chapter (working with lists)/2. avoiding Indentation errors.md",
+    "1. Part/4. Chapter (working with lists)/1. looping through an entire list.md",
+    "1. Part/3. Chapter (introducing lists)/6. Avoiding index errors when working with lists.md",
+    "1. Part/4. Chapter (working with lists)",
+    "1. Part/3. Chapter (introducing lists)/5. Organizing a list.md",
     "1. Part/3. Chapter (introducing lists)/4. changing, adding, and removing elements from list.md",
+    "1. Part/3. Chapter (introducing lists)/5",
+    "1. Part/4. Organizing a list",
+    "1. Part/3. Chapter (introducing lists)/3. accessing items on list.md",
     "1. Part/3. Chapter (introducing lists)/2. list indexing starts from 0.md",
     "1. Part/3. Chapter (introducing lists)/1. What is a list.md",
     "1. Part/2. Chapter (variables and simple data types)/9. Comments.md",
@@ -199,23 +221,10 @@
     "1. Part/2. Chapter (variables and simple data types)/8. Str function.md",
     "1. Part/2. Chapter (variables and simple data types)/7. Numbers.md",
     "1. Part/2. Chapter (variables and simple data types)/6. Stripping Whitespace.md",
-    "1. Part/2. Chapter (variables and simple data types)/5. Adding Whitespace to Strings with Tabs or Newlines.md",
     "1. Part/2. Chapter (variables and simple data types)/Untitled",
-    "1. Part/2. Chapter (variables and simple data types)/4. Combining strings.md",
-    "1. Part/2. Chapter (variables and simple data types)/3. strings.md",
-    "1. Part/2. Chapter (variables and simple data types)/2. variable naming conventions.md",
-    "1. Part/2. Chapter (variables and simple data types)/1. variables.md",
-    "1. Part/1. Chapter/5. running python programs.md",
-    "1. Part/1.md",
     "1. Part/2. Chapter (variables and simple data types)",
-    "1. Part/1. Chapter/4. Python on Different Operating Systems.md",
-    "1. Part/1. Chapter/3. Hello world.md",
-    "1. Part/1. Chapter/2. Running Snippets of Python Code.md",
-    "1. Part/1. Chapter/1. python2 vs python3.md",
     "1. Part/1. Chapter",
-    "0. Introduction/2. Why learn python at all.md",
     "1. Part",
-    "0. Introduction/1. Who is this book for.md",
     "0. Introduction"
   ]
 }
